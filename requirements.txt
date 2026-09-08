@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+langgraph
+beautifulsoup4
+requests
+tiktoken
+chromadb
+pandas
+matplotlib
+tabulate
+rank_bm25
+sentence-transformers
+streamlit
