@@ -21,7 +21,7 @@ A production-quality Retrieval-Augmented Generation (RAG) system built for the M
 | Layer | Library |
 |---|---|
 | Orchestration | LangGraph (StateGraph) |
-| LLM | Gemini 2.5 Flash via LangChain |
+| LLM | Gemini 3.6 Flash via LangChain |
 | Embeddings | BAAI/bge-large-en-v1.5 (HuggingFace, free, local) |
 | Vector store | ChromaDB |
 | Keyword index | BM25 (rank_bm25) |
@@ -138,7 +138,7 @@ Metrics computed: Answerability Accuracy, Recall@K, Precision@K, Avg Reranker Sc
 
 **Ingestion:** Free (local BGE-large embeddings, no API calls)
 
-**Per query (Gemini 2.5 Flash pricing as of mid-2025):**
+**Per query (Gemini 3.6 Flash pricing as of mid-2025):**
 | Component | Rate |
 |---|---|
 | Input tokens | $0.30 per 1M tokens |
