@@ -1,6 +1,6 @@
 # Website-Grounded RAG Agent
 
-A production-quality Retrieval-Augmented Generation (RAG) system built for the MyAdvice AI Engineer Assessment. The agent crawls a publicly accessible website, builds a searchable knowledge base, and answers natural-language questions grounded exclusively in retrieved website content.
+A production-quality Retrieval-Augmented Generation (RAG) system built. The agent crawls a publicly accessible website, builds a searchable knowledge base, and answers natural-language questions grounded exclusively in retrieved website content.
 
 ---
 
